@@ -1,6 +1,6 @@
 #HOMEWORK 1
 
-Removed div tags and replaced with semantycs tags: Header, Section, Footer, Nav, Aside.
+Removed div tags and replaced with semantics tags: Header, Section, Footer, Nav, Aside.
 
 Added Alt tags.
 
